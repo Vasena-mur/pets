@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    background-color: rgb(182, 171, 153);
+}
+header{
+    height: 15%;
+    background-color:rgb(86, 70, 46);
+    color:rgb(233, 229, 222);
+}
+.nav{
+    align-items: center;
+    list-style-type: none;
+}
+.nav li{
+    padding: 22px;
+    display: block;
+    font-size: 1.2rem;
+}
+.container{ 
+    margin: 0px 30%;
+    width: 70%;
+}
+.cards{
+    margin-top: 70px;
+}
+.card-img-top{
+    height: 400px;
+}
+h3{
+    margin-top: 70px;
+    text-align: center;
+}
+       
+footer{
+    height: 15%;
+    background-color:rgb(86, 70, 46);
+    color:rgb(233, 229, 222);
+}
